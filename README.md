@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @khygopole
 - 👀 I’m interested in learning other programming languages.
 - 🌱 I’m currently learning C++ Data Structures in the University.
+- I'm trying to learn the basics of C# for my course.
 
 <!---
 khygopole/khygopole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
