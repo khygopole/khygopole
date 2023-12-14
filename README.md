@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khygopole
-- My field of specialization is Embedded System and Design along with IoT feature with the use of Arduino, NodeMCU ESP8266, and ThingSpeak.
+- My field of specialization is Embedded System and Design along with IoT feature with the use of microcontrollers like Arduino, NodeMCU ESP8266, and ThingSpeak.
 - 👀 I’m interested in learning other programming languages.
 - 🌱 I’m currently learning C++ Data Structures in the University.
 - I'm trying to learn the basics of C# for my course.
