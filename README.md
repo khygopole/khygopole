@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @khygopole
+- I am interested in Web Development, Embedded Systems, Robotics, Electronics, and Programming.
 - My field of specialization is Embedded System Technology along with IoT feature with the use of microcontrollers like Arduino, NodeMCU ESP8266, and ThingSpeak.
 - 👀 I use C++ for microcontroller programming.
 - I know basic Python programming.
